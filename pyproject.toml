@@ -1,0 +1,14 @@
+[project]
+name = "python-threshold-overlays"
+version = "0.1.0"
+description = "A Python overlay program."
+authors = [{name = "Helen Wilson", email = "hwilson23@wisc.edu"}]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.6",
+    "numpy>=2.3.3",
+    "opencv-python-headless>=4.11.0.86",
+    "pyqt5>=5.15.11",
+    "tifffile>=2025.9.9",
+]
