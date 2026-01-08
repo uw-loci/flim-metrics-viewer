@@ -1,7 +1,10 @@
 
 # python\_threshold\_overlays
 
-A Python script for applying dynamic thresholding to images, with overlay visualization capabilities.
+A Python script for applying dynamic thresholding to images, with overlay visualization capabilities. Figure 6 in FLIM quality metric visualization as a means to validate consistency across large-area non-homogeneous FLIM datasets, Wilson et al.
+
+MAIN file used to open user interface
+other scripts for image analysis and figure creation related to the paper are also in the repository
 
 ## Features
 
